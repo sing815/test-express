@@ -1,7 +1,7 @@
 var g_mc_ws_component = {
     ws: null,
     // url: 'wss://zoops-webrtc-01.herokuapp.com/echo',
-    url: 'https://webrtc5-svr-express.herokuapp.com/',
+    url: 'https://sing815.herokuapp.com/',
     init: function () {
 
     },
